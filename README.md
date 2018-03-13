@@ -6,8 +6,10 @@ This is a midterm assignment which is a little larger than usual exercises. This
 
 ## Assignment
 
-### Project 1 
-Project1
+### Project 1
+This project is a plate recognition application. The project has 8 bullet points to complete. Therefor i will go through these with notes on the way.
+- A. Build & Run
+
 
 ### Project 2
 Project2
