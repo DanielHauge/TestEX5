@@ -29,11 +29,11 @@ From running the program manually in a manner which i would call System testing,
 Tests, can be found in the test folder. In IntelliJ, it is quite easy to distinguish between tests in the same suit. So to put in the Logger.info command wasn't realy neccesary for me. But i did it anyway for good meassure. Can be seen below.
 [![https://gyazo.com/886d927a70298d1d409ab4445a5b927d](https://i.gyazo.com/886d927a70298d1d409ab4445a5b927d.png)](https://gyazo.com/886d927a70298d1d409ab4445a5b927d)
 
-After getting familiar with the test codes, i most admit the data driven approach is very nice. It basicly takes all files within the folder, and itterate thought them and using a property file to state the answers. This test would essentially not need any rewriting for new pictures/ new data. If just providing with new pictures and property file. However, as it is now, it will not state which images it is having a hard time with. This is an issue to pinpoint where the recognizer is having a hard time. The second test only succeds, because it is only expected to succed 53 of the times. Depending on the end goal, this should bechanged. If we assume we want 100% or so close you can define it as 100%, we should test each individual image and have them all pass. To achive this, parameterized testing can be used.
+After getting familiar with the test codes, i most admit the data driven approach is very nice. It basicly takes all testscases within the file, and itterate thought them and using a property file to state the answers. This test would essentially not need any rewriting for new pictures/ new data. If just providing with new pictures and property file. However, as it is now, it will not state which images it is having a hard time with. This is an issue to pinpoint where the recognizer is having a hard time. The second test only succeds, because it is only expected to succed 53 of the times. Depending on the end goal, this should be changed. If we assume we want 100% or so close you can define it as 100%, we should test each individual image and have them all pass. To achive this, parameterized testing can be used.
 
 #### Fixing the tests
-Since i'm lazy. I'm using the JUnit.jupiter.params library with Csv as source. I've used this site as a good reference: https://blog.codefx.org/libraries/junit-5-parameterized-tests/. I quickly just replaced all '=' signs with a comma, and renamed the file extension to .csv. 
-And did the following code: 
+I'm using the JUnit.jupiter.params library with CsvFile as source. I've used this site as a good reference: https://blog.codefx.org/libraries/junit-5-parameterized-tests/. I quickly just replaced all '=' signs with a comma, and renamed the file extension to .csv. 
+And wrote the following code: 
 
 ```java
 @ParameterizedTest(name = "{0}")
@@ -46,14 +46,16 @@ And did the following code:
 To clarify, it is actully pretty easy just to change the delimiter to "=" aswell with @CsvFileSource(), but i thought i wanted a idiomatic approach to .csv solution.
 #### Reflections
 As stated before, the second test or the one which was just made is data driven. This made me think that it is very good to write datadriven tests where available. Reasoning for this, is it is much easier to test huge amounts of configurations, and data without having to write new tests, nor rewrite the tests if we need different test cases. Here we could essentially just replace the pictures and the expected results list, and the test would run as inteded without doing anything to the test. No rewriting, no revisiting, it just works.
-Another thing is whether or not this test is a true unit test or not. I think in daily usage of the term Unit test, i think it could pass. But the true conceptual idea of a unit test, is to isolate some code, module, object and test upon that only, while having no dependencies on other things that needs to work. While this specific test touches the file system for a csv file, which means it breaks the idea. Also uses 2 objects CarSnapShot and Intelligence. To isolate better to have fully isolation, we can stub or mock some elements to realy isolate it's behavior. I think you would be able to pass this test off as a system test. Depending on requirements, it is testing the whole systems behavior, ie. to recognize car plates. But could also be argued as integration testing, ie. testing something where modules are combined to test whether or not they work together to furfill requirements, if we count the GUI as being apart of the system too it wouldn't be system testing.
+Another thing is whether or not this test is a true unit test or not. I think in daily usage of the term Unit test, i think it could pass. But the true conceptual idea of a unit test, is to isolate some code, module, object and test upon that only, while having no dependencies on other things that needs to work. While this specific test touches the file system for a csv file, which means it breaks the idea. Also uses 2 objects CarSnapShot and Intelligence. To isolate fully, we can stub or mock some elements to realy isolate it's behavior. I think you would be able to pass this test off as a system test. Depending on requirements, it is testing the whole systems behavior, ie. to recognize car plates. But could also most likly be better argued as integration testing, ie. testing something where modules are combined to test whether or not they work together to furfill requirements, if we count the GUI as being apart of the system too it wouldn't be system testing.
 
 My suggestions to solve this problem, is to test on individual parts in a isolated manner without dependencies towards other things. If the point was to do specificly unit testing as the true conceptual unit testing.
 
-However i still think the data driven approach is very smart and nice. It allows for so much more testing without having to write as much hardcoded tests. Even if the tests become integration tests because it touches the file system.
+To clarify, JUnit is just a testing framework for java. A JUnit test can be integration or unit test. So it is basicly a JUnit test, but is not a Unit test per say.
+
+However i still think the data driven approach is very smart and nice. It allows for so much more testing without having to write as much hardcoded tests / Test cases. Even if the tests become integration tests because it touches the file system.
 
 #### Hamcrestifying the tests
-Lets make the tests look nicer, and easier to read. First up the RecognitionAll which was made previusly. Now it looks like this:
+Lets make the tests look nicer, and easier to read, with Hamcrest. The RecognitionAll which was made previusly, Now it looks like this:
 ```java
 @ParameterizedTest(name = "{0}")
     @CsvFileSource(resources = "/results.csv")
@@ -73,18 +75,16 @@ Lets make the tests look nicer, and easier to read. First up the RecognitionAll 
 ```
 This made the test very declaretive, ie. state what we want rather than what we need to do to get what we want.
 
-... More hamcrest JUnit 5.x tests or not?
-
 #### Conclusion to project 1
-To summerize, This project has alot of semi working features and tests that tests if it works as inteded or not. 
-The initial tests looks as if everything works as inteded, but delving deeper into it, it actully shows that 53 of data-written test cases works and not all. 
+To summerize, This project has a semi working feature and tests that tests if it works as inteded or not. 
+The initial tests looks as if everything works as inteded, but delving deeper into it, it actully shows that 53 out of 99 are faulty as per the data-written test cases. Hence, not all tests pass, even though it actully passes, because it just counts asserts that only 53 will pass. 
 The inital test does not expose which test is faulty. That is what my tests sets out to do, with parametermized testing. 
 To create test with parameters, where i used a CSVfile as source. Running through all test cases and using that as arguments into the test, dynamicly creating tests as there is test cases in the CSVFile.
 To figure out which test actully fails, and which passes. The purpose of testing is to verify and validate that the system meets the stated requirements or specifications, while also finding defects and bugs and ensuring/increasing quaility. ie. We want to have the tests fail, if the system doesn't do as we want it to do. eg. We want the pictures which it faulty recognize to be failing in the tests. And not get pass because we only want 53 of the test cases to pass, nor get fail on all because only 1 picture was faulty.
 
 In addition i added hamcrest to the project. Making the tests declaritive instead of imperative. That way it is easier to read and understand what the test does and tests for.
 
-All code and tests can be found in the [Project 2 module]()
+All code and tests can be found in the [Project 2 module](#Project1)
 
 --------------------------------------------------------
 
