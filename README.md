@@ -75,7 +75,7 @@ Lets make the tests look nicer, and easier to read, with Hamcrest. The Recogniti
 ```
 This made the test very declaretive, ie. state what we want rather than what we need to do to get what we want.
 
-The full test can be found [Here](Project1/)
+The full test can be found [Here](roject1/src/test/java/net/sf/javaanpr/test/RecognitionAll.java)
 
 #### Conclusion to project 1
 To summerize, This project has a semi working feature and tests that tests if it works as inteded or not. 
@@ -86,7 +86,7 @@ To figure out which test actully fails, and which passes. The purpose of testing
 
 In addition i added hamcrest to the project. Making the tests declaritive instead of imperative. That way it is easier to read and understand what the test does and tests for.
 
-All code and tests can be found in the [Project 2 module](Project1/src/test/java/net/sf/javaanpr/test/RecognitionAll.java)
+All code and tests can be found in the [Project 2 module](Project1/)
 
 --------------------------------------------------------
 
