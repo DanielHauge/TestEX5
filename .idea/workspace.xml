@@ -1,0 +1,1657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e3e8e83-960f-4d29-8954-5e68c0a9d7bb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/TestEX5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_restassured_json_path_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_restassured_rest_assured_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_restassured_rest_assured_common_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_restassured_xml_path_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_swinglabs_swing_layout_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/AUTHORS.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/README.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/docs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/docs/anpr.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/docs/goals.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/docs/howto-release-new-version.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/docs/howto-setup-build.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/docs/howto-use-reports.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/docs/img/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/docs/releasing/release.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/docs/render_docs.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/docs/upgradeRecipes/upgradeRecipe-2.0.0.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/configurator/Configurator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/gui/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/gui/TimeMeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/gui/build/revapi-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/gui/tools/FileListModelEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/gui/tools/ImageFileFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/gui/windows/FrameComponentInit.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/gui/windows/FrameComponentInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/gui/windows/FrameHelp.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/gui/windows/FrameHelp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/gui/windows/FrameMain.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/gui/windows/FrameMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/imageanalysis/Band.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/imageanalysis/BandGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/imageanalysis/CarSnapshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/imageanalysis/CarSnapshotGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/imageanalysis/Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/imageanalysis/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/imageanalysis/HoughTransformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/imageanalysis/Peak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/imageanalysis/PeakComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/imageanalysis/Photo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/imageanalysis/PixelMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/imageanalysis/Plate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/imageanalysis/PlateGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/imageanalysis/PlateHorizontalGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/imageanalysis/PlateVerticalGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/imageanalysis/PositionInPlate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/imageanalysis/Statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/intelligence/Intelligence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/intelligence/RecognizedPlate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/intelligence/SyntaxAnalysisMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/intelligence/parser/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/intelligence/parser/PlateForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/intelligence/parser/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/jar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/neuralnetwork/NeuralNetwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/recognizer/CharacterRecognizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/recognizer/KnnPatternClassifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/recognizer/NeuralPatternClassifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/recognizer/PatternComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/recognizer/RecognizedChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/recognizer/RecognizedPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/tools/HoughTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/java/net/sf/javaanpr/tools/TestStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/0_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/1_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/2_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/3_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/4_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/5_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/6_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/7_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/8_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/9_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/a_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/b_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/c_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/d_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/e_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/f_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/g_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/h_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/i_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/j_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/k_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/l_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/m_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/n_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/o_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/p_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/q_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/r_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/s_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/t_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/u_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/v_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/w_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/x_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/y_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x15/z_10x15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/0_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/1_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/2_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/3_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/4_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/5_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/6_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/7_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/8_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/9_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/a_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/b_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/c_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/d_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/e_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/f_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/g_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/h_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/i_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/j_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/k_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/l_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/m_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/n_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/o_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/p_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/q_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/r_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/s_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/t_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/u_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/v_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/w_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/x_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/y_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_10x16_bw/z_10x16_bw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/0_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/1_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/2_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/3_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/4_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/5_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/6_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/7_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/8_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/9_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/a_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/b_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/c_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/d_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/e_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/f_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/g_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/h_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/i_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/j_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/k_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/l_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/m_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/n_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/o_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/p_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/q_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/r_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/s_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/t_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/u_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/v_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/w_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/x_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/y_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_6x8/z_6x8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/0_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/1_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/2_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/3_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/4_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/5_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/6_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/7_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/8_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/9_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/a_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/b_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/c_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/d_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/e_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/f_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/g_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/h_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/i_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/j_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/k_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/l_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/m_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/n_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/o_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/p_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/q_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/r_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/s_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/t_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/u_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/v_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/w_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/x_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/y_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/alphabets/alphabet_8x13/z_8x13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/dtd/neuralNetwork.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/dtd/syntax.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/help/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/help/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/help/help.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/help/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/neuralnetworks/network_avgres_813_map.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/neuralnetworks/network_linres_1016_edge.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/reportgenerator/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/main/resources/syntax.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/java/net/sf/javaanpr/configurator/ConfiguratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/java/net/sf/javaanpr/gui/ReportGeneratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/java/net/sf/javaanpr/gui/tools/ImageFileFilterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/java/net/sf/javaanpr/imageanalysis/PeakComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/java/net/sf/javaanpr/imageanalysis/PhotoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/java/net/sf/javaanpr/intelligence/RecognizedPlateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/java/net/sf/javaanpr/intelligence/SyntaxAnalysisModeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/java/net/sf/javaanpr/recognizer/PatternComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/java/net/sf/javaanpr/recognizer/RecognizedCharTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/java/net/sf/javaanpr/test/RecognitionAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/java/net/sf/javaanpr/test/RecognitionIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/java/net/sf/javaanpr/test/RecognitionPerformanceIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/java/net/sf/javaanpr/test/util/SimpleImageViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/java/net/sf/javaanpr/test/util/TestUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/results.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_031.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_032.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_033.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_034.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_037.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_039.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_042.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_043.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_044.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_045.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_046.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_047.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_050.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_051.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_052.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_053.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_054.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_055.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_056.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_057.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_058.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_059.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_060.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_061.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_062.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_063.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_064.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_065.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_066.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_067.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_068.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_069.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_070.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_071.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_072.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_073.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_074.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_075.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_076.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_077.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_078.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_079.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_081.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_082.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_083.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_084.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_085.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_086.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_087.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_088.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_089.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_090.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_091.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_092.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_093.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_094.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_095.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_096.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/src/test/resources/snapshots/test_097.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/Project2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/src/main/java/Testable/DateFormatterInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/src/main/java/Testable/DateFormatterInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/src/main/java/Testable/Joke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/ChuckNorris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/EduJoke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/FetcherFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/FetcherFactoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/JokeFetcherInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/JokeMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/Moma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/Tambal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/src/main/java/Testable/Jokes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/src/main/java/Testable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/src/main/java/Testable/MockitoExtension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/src/main/java/Testable/Testing/DateFormatterInterfaceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/src/main/java/Testable/Testing/FetcherFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project2/src/main/java/Testable/Testing/JokeFetcherInterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/Project3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/BankImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/BoardImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/DieImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/GameHandlerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/LocationImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/PieceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/PlayerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Interfaces/IBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Interfaces/IBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Interfaces/IDie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Interfaces/IGameHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Interfaces/ILocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Interfaces/IPiece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Interfaces/IPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/BankImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/BoardImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/DieImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/LocationImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/PieceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/PlayerImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/Project1/target/" />
+    <ignored path="$PROJECT_DIR$/Project2/target/" />
+    <ignored path="$PROJECT_DIR$/Monopoly/target/" />
+    <ignored path="$PROJECT_DIR$/Project3/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TestEX5$GameHandlerImpl.ic" NAME="GameHandlerImpl Coverage Results" MODIFIED="1522305546455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Monopoly.Implementations.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TestEX5$RecognitionIT.coverage" NAME="RecognitionIT Coverage Results" MODIFIED="1521643329235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.sf.javaanpr.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TestEX5$All_in_Project1.ic" NAME="All in Project1 Coverage Results" MODIFIED="1522496864825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TestEX5$All_in_Project3.ic" NAME="All in Project3 Coverage Results" MODIFIED="1522300761655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TestEX5$JokeFetcherInterfaceTest.ic" NAME="JokeFetcherInterfaceTest Coverage Results" MODIFIED="1522214614600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Testable.Testing.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TestEX5$All_in_Project3.exec" NAME="All in Project3 Coverage Results" MODIFIED="1522300811483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TestEX5$DateFormatterInterfaceImplTest.ic" NAME="DateFormatterInterfaceImplTest Coverage Results" MODIFIED="1522214602653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Testable.Testing.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TestEX5$All_in_javaanpr.coverage" NAME="All in javaanpr Coverage Results" MODIFIED="1521643350878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TestEX5$All_in_Project3__1_.ic" NAME="All in Project3 (1) Coverage Results" MODIFIED="1522300823096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TestEX5$RecognitionAll.coverage" NAME="RecognitionAll Coverage Results" MODIFIED="1521643281938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.sf.javaanpr.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TestEX5$All_in_Project3__2_.ic" NAME="All in Project3 (2) Coverage Results" MODIFIED="1522305617668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TestEX5$FetcherFactoryTest.ic" NAME="FetcherFactoryTest Coverage Results" MODIFIED="1522214242005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Testable.Testing.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TestEX5$FetcherFactoryTest.exec" NAME="FetcherFactoryTest Coverage Results" MODIFIED="1522214322718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Testable.Testing.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TestEX5$All_in_javaanpr__2_.coverage" NAME="All in javaanpr (2) Coverage Results" MODIFIED="1520967616168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="612">
+                <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DateFormatterInterfaceImplTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/Testing/DateFormatterInterfaceImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FetcherFactoryImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/FetcherFactoryImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FetcherFactoryTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/Testing/FetcherFactoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="845">
+              <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LocationImplTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/LocationImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PieceImplTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/PieceImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BoardImplTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/BoardImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JokeFetcherInterface.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/JokeFetcherInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DieImplTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/DieImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JokeFetcherInterfaceTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/Testing/JokeFetcherInterfaceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="30" column="102" selection-start-line="30" selection-start-column="102" selection-end-line="30" selection-end-column="102" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>=</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcherInterfaceImpl.java" />
+        <option value="$PROJECT_DIR$/Project1/pom.xml" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcherBehavior.java" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/MockitoExtension.java" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcherInterface.java" />
+        <option value="$PROJECT_DIR$/Project2/pom.xml" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcherInterfaceTest.java" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/DateFormatterInterfaceImplTest.java" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/Jokes.java" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/JokeFetcherInterface.java" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/EduJoke.java" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/ChuckNorris.java" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/Moma.java" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/Tambal.java" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/FetcherFactory.java" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/JokeFetcherInterfaceImpl.java" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/testex/JokeFetcher.java" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/Main.java" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/FetcherFactoryTest.java" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/FetcherFactoryImpl.java" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/JokeMaster.java" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/Testing/JokeFetcherInterfaceTest.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/IBank.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/IBoard.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/IDie.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/IPiece.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/IPlayer.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Interfaces/IBoard.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Interfaces/ILocation.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Interfaces/IPlayer.java" />
+        <option value="$PROJECT_DIR$/Project3/src/test/java/Monopoly/Interfaces/IPlayerTest.java" />
+        <option value="$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/PlayerImplTest.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/DieImpl.java" />
+        <option value="$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/DieImplTest.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/IPieceImpl.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/PieceImpl.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/ILocationImpl.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/IBoardImpl.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/IGameHandlerImpl.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/IBankImpl.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Interfaces/IBank.java" />
+        <option value="$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/LocationImplTest.java" />
+        <option value="$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/PieceImplTest.java" />
+        <option value="$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/BoardImplTest.java" />
+        <option value="$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/BankImplTest.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/BankImpl.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/PlayerImpl.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/BoardImpl.java" />
+        <option value="$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/GameHandlerImpl.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Project2/src/main/java/Testable/Testing/FetcherFactoryTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TestEX5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestEX5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestEX5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestEX5" type="462c0819:PsiDirectoryNode" />
+              <item name="Project2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestEX5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestEX5" type="462c0819:PsiDirectoryNode" />
+              <item name="Project2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestEX5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestEX5" type="462c0819:PsiDirectoryNode" />
+              <item name="Project2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestEX5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestEX5" type="462c0819:PsiDirectoryNode" />
+              <item name="Project2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestEX5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestEX5" type="462c0819:PsiDirectoryNode" />
+              <item name="Project2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Testable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestEX5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestEX5" type="462c0819:PsiDirectoryNode" />
+              <item name="Project2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Testable" type="462c0819:PsiDirectoryNode" />
+              <item name="JokeFetcher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestEX5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestEX5" type="462c0819:PsiDirectoryNode" />
+              <item name="Project2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Testable" type="462c0819:PsiDirectoryNode" />
+              <item name="Testing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestEX5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestEX5" type="462c0819:PsiDirectoryNode" />
+              <item name="Project3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestEX5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestEX5" type="462c0819:PsiDirectoryNode" />
+              <item name="Project3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestEX5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestEX5" type="462c0819:PsiDirectoryNode" />
+              <item name="Project3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestEX5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestEX5" type="462c0819:PsiDirectoryNode" />
+              <item name="Project3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestEX5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestEX5" type="462c0819:PsiDirectoryNode" />
+              <item name="Project3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Monopoly" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestEX5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestEX5" type="462c0819:PsiDirectoryNode" />
+              <item name="Project3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Monopoly" type="462c0819:PsiDirectoryNode" />
+              <item name="Implementations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestEX5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestEX5" type="462c0819:PsiDirectoryNode" />
+              <item name="Project3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Monopoly" type="462c0819:PsiDirectoryNode" />
+              <item name="Interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestEX5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestEX5" type="462c0819:PsiDirectoryNode" />
+              <item name="Project3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestEX5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestEX5" type="462c0819:PsiDirectoryNode" />
+              <item name="Project3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestEX5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestEX5" type="462c0819:PsiDirectoryNode" />
+              <item name="Project3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Implementations" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Monopoly.Implementations" />
+      <recent name="Monopoly.Interfaces" />
+      <recent name="Testable.JokeFetcher" />
+      <recent name="Testable" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Monopoly.Implementations" />
+      <recent name="Monopoly" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Animc\Desktop\Repos\TestEX5\Project2\target" />
+      <recent name="C:\Users\Animc\Desktop\Repos\TestEX5\Project2" />
+      <recent name="C:\Users\Animc\Desktop\Repos\TestEX5\Project1\src\test\resources" />
+      <recent name="C:\Users\Animc\Desktop\Repos\TestEX5\Project1\src\test\csvfolder" />
+      <recent name="C:\Users\Animc\Desktop\Repos\TestEX5\Project1\src\main\java\net\sf\javaanpr\gui" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Testable" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Monopoly.Implementations" />
+      <recent name="Testable.JokeFetcher" />
+      <recent name="Testable" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in Project1">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="GameHandlerImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Monopoly.Implementations.GameHandlerImpl" />
+      <module name="Project3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Monopoly.Implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="All in Project1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="All in Project3 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project3" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="All in Project3 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project3" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="All in Project3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project3" />
+      <extension name="coverage" runner="jacoco" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BuildJokes" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/Project2" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="Recommended Build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+                <option value="-DskipTests" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/Project1" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="Running app" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="exec:java" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="true" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/Project1" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="RunningJokes" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="exec:java" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="true" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/Project2" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="Test" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/Project1" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.Running app" />
+      <item itemvalue="Maven.RunningJokes" />
+      <item itemvalue="Maven.BuildJokes" />
+      <item itemvalue="Maven.Test" />
+      <item itemvalue="Maven.Recommended Build" />
+      <item itemvalue="JUnit.All in Project3" />
+      <item itemvalue="JUnit.All in Project3 (1)" />
+      <item itemvalue="Application.GameHandlerImpl" />
+      <item itemvalue="JUnit.All in Project3 (2)" />
+      <item itemvalue="JUnit.All in Project1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Project1" />
+        <item itemvalue="Application.GameHandlerImpl" />
+        <item itemvalue="JUnit.All in Project3 (2)" />
+        <item itemvalue="JUnit.All in Project3 (1)" />
+        <item itemvalue="JUnit.All in Project3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e3e8e83-960f-4d29-8954-5e68c0a9d7bb" name="Default" comment="" />
+      <created>1520966279416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520966279416</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BankImplTest_loan - 2018.03.29 at 07h 15m 35s.xml">
+      <configuration name="BankImplTest.loan" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankImplTest_loan - 2018.03.29 at 07h 15m 50s.xml">
+      <configuration name="BankImplTest.loan" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankImplTest - 2018.03.29 at 07h 18m 26s.xml">
+      <configuration name="BankImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Project3 - 2018.03.29 at 07h 19m 24s.xml">
+      <configuration name="All in Project3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Project3 - 2018.03.29 at 07h 19m 52s.xml">
+      <configuration name="All in Project3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Project3 - 2018.03.29 at 07h 20m 07s.xml">
+      <configuration name="All in Project3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Project3 - 2018.03.29 at 07h 20m 11s.xml">
+      <configuration name="All in Project3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Project3_(1) - 2018.03.29 at 07h 20m 25s.xml">
+      <configuration name="All in Project3 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Project3_(2) - 2018.03.29 at 08h 40m 20s.xml">
+      <configuration name="All in Project3 (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Project1 - 2018.03.31 at 13h 49m 48s.xml">
+      <configuration name="All in Project1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50625" side_tool="true" weight="0.32847276" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32974634" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49375" weight="0.43428132" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14140625" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39969254" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.24179688" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49375" weight="0.32744044" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3292402" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Project2/src/main/java/testex/Jokes.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcherBehavior.java" />
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/testex/DateFormatter.java" />
+    <entry file="file://$PROJECT_DIR$/Project1/src/test/resources/results.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project1/src/test/java/net/sf/javaanpr/test/RecognitionIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="71" column="64" selection-start-line="71" selection-start-column="64" selection-end-line="71" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project1/src/test/java/net/sf/javaanpr/test/RecognitionAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="40" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6035">
+          <caret line="355" column="21" selection-start-line="355" selection-start-column="21" selection-end-line="355" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/DateFormatterInterfaceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/DateFormatterInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/MockitoExtension.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/ChuckNorris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/Tambal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/testex/JokeFetcher.java" />
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/testex/Jokes.java" />
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/testex/JokeException.java" />
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/testex/Joke.java" />
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/Moma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/JokeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/Jokes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/main/java/Monopoly/Interfaces/IPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/test/java/Monopoly/Interfaces/IPlayerTest.java" />
+    <entry file="file://$PROJECT_DIR$/Project2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/main/java/Monopoly/Interfaces/IPiece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/main/java/Monopoly/Interfaces/IDie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/main/java/Monopoly/Interfaces/IBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/main/java/Monopoly/Interfaces/IBank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/BankImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/main/java/Monopoly/Interfaces/ILocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/main/java/Monopoly/Interfaces/IGameHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/PlayerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/GameHandlerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" selection-start-line="7" selection-end-line="44" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/BankImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/BoardImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/LocationImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/DieImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/main/java/Monopoly/Implementations/PieceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/PlayerImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/JokeMaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/FetcherFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/EduJoke.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/JokeFetcherInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/JokeFetcher/FetcherFactoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/Testing/DateFormatterInterfaceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/Testing/JokeFetcherInterfaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="30" column="102" selection-start-line="30" selection-start-column="102" selection-end-line="30" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/src/main/java/Testable/Testing/FetcherFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="845">
+          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/BoardImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/DieImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/LocationImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project3/src/test/java/Monopoly/Implementations/PieceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="612">
+            <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="58" lean-forward="true" selection-start-line="41" selection-start-column="58" selection-end-line="41" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Project3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
