@@ -75,6 +75,8 @@ Lets make the tests look nicer, and easier to read, with Hamcrest. The Recogniti
 ```
 This made the test very declaretive, ie. state what we want rather than what we need to do to get what we want.
 
+The full test can be found [Here](Project1/
+
 #### Conclusion to project 1
 To summerize, This project has a semi working feature and tests that tests if it works as inteded or not. 
 The initial tests looks as if everything works as inteded, but delving deeper into it, it actully shows that 53 out of 99 are faulty as per the data-written test cases. Hence, not all tests pass, even though it actully passes, because it just counts asserts that only 53 will pass. 
@@ -84,7 +86,7 @@ To figure out which test actully fails, and which passes. The purpose of testing
 
 In addition i added hamcrest to the project. Making the tests declaritive instead of imperative. That way it is easier to read and understand what the test does and tests for.
 
-All code and tests can be found in the [Project 2 module](Project1)
+All code and tests can be found in the [Project 2 module](Project1/src/test/java/net/sf/javaanpr/test/RecognitionAll.java)
 
 --------------------------------------------------------
 
@@ -128,7 +130,7 @@ Now the formatter is not responsible for the SimpleDateFormat object, only check
 
 With the first task h1). It was tasked to create tests to verify getFormattedDate methods public behavior. It had some issues with mockito and this made me choke. It forced me to rethink how and what to mock. I initially understood, the concept of wanting to test the behavior of the method. ie. To test if the method was called and with what objects and such. But mockito was acting up, based on my inexperience with mockito. Errors such as "This is not a mock object". Reasoning is, that i refractored the class to not depend on date and simpleDateFormatter anylonger. I was trying alot of things, like also mocking the class that i needed to test, which i later figured out was not a good idea. We do not mock the SUT (System under test), if we mock that, we don't realy test it. We need to mock/stub/face etc. the surronding objects which the SUT depend on. The solution i ran with, was to "Spy" the object "simpleDateFormatter" this way, i can test with the actual object instead. This worked out decently.
 
-See [DateFormatterInterfaceImplTest]()
+See [DateFormatterInterfaceImplTest](TestEX5/Project2/src/main/java/Testable/Testing/DateFormatterInterfaceImplTest.java)
 
 
 ##### JokeFetcher 1. Refactoring
@@ -180,7 +182,7 @@ To summerize, this project started out with pretty untestable code. I had to ref
 
 This project needed to be refractored to follow the SOLID principles before testing could realy be done. eg. By using Factory pattern, depending on interfaces and polymorph implementations into the dependencies at use (depending on abstration, not concretions), by limiting the responsibility of a class to a single responsbility, having the classes be open for extension, but closed for modification. etc.
 
-All code and tests can be found in the [Project 2 module]()
+All code and tests can be found in the [Project 2 module](Project2/src/main/java/Testable/)
 
 --------------------------------------------------
 
@@ -202,13 +204,13 @@ I thought, before i began the development, i would start with the interfaces, so
 
 See these interfaces
 
-- [IBank]()
-- [IBoard]()
-- [IDie]()
-- [IGameHandler]()
-- [ILocation]()
-- [IPiece]()
-- [IPlayer]()
+- [IBank](TestEX5/Project3/src/main/java/Monopoly/Interfaces/IBank.java)
+- [IBoard](TestEX5/Project3/src/main/java/Monopoly/Interfaces/IBoard.java)
+- [IDie](TestEX5/Project3/src/main/java/Monopoly/Interfaces/IDie.java)
+- [IGameHandler](TestEX5/Project3/src/main/java/Monopoly/Interfaces/IGameHandler.java)
+- [ILocation](TestEX5/Project3/src/main/java/Monopoly/Interfaces/ILocation.java)
+- [IPiece](TestEX5/Project3/src/main/java/Monopoly/Interfaces/IPiece.java)
+- [IPlayer](TestEX5/Project3/src/main/java/Monopoly/Interfaces/IPlayer.java)
 
 Some afterthought has changed the Interfaces, so it wont look 100% like the drawing.
 
@@ -243,7 +245,7 @@ IDie[] dice = {die1, die2};
         verify(piece).Move(newLoc);
 ```
 
-By this, the player is done. Behavior is tested, even if no other dependencies has been implemented. See [PlayerImplTest]()
+By this, the player is done. Behavior is tested, even if no other dependencies has been implemented. See [PlayerImplTest](TestEX5/Project3/src/test/java/Monopoly/Implementations/PlayerImplTest.java)
 
 [![https://gyazo.com/3cc5608f650331d4bc524c14e00b0d7c](https://i.gyazo.com/3cc5608f650331d4bc524c14e00b0d7c.png)](https://gyazo.com/3cc5608f650331d4bc524c14e00b0d7c)
 
@@ -258,7 +260,7 @@ public int Roll() {
     }
 ```
 
-See [DieImplTest]()
+See [DieImplTest](TestEX5/Project3/src/test/java/Monopoly/Implementations/DieImplTest.java)
 
 #### Rest of the system
 From here on, i will move forward with the rest of the system. Behavior testing and implementing it like with player.
@@ -269,20 +271,20 @@ Now all except the gamehandler / main method has been tested and implemented.
 [![https://gyazo.com/3637f7b9e14dcf095392de6b1888295b](https://i.gyazo.com/3637f7b9e14dcf095392de6b1888295b.png)](https://gyazo.com/3637f7b9e14dcf095392de6b1888295b)
 
 See implementations:
-- [BankImpl]()
-- [BoardImpl]()
-- [DieImpl]()
-- [LocationImpl]()
-- [PieceImpl]()
-- [PlayerImpl]()
+- [BankImpl](TestEX5/Project3/src/main/java/Monopoly/Implementations/BankImpl.java)
+- [BoardImpl](TestEX5/Project3/src/main/java/Monopoly/Implementations/BoardImpl.java)
+- [DieImpl](TestEX5/Project3/src/main/java/Monopoly/Implementations/DieImpl.java)
+- [LocationImpl](TestEX5/Project3/src/main/java/Monopoly/Implementations/LocationImpl.java)
+- [PieceImpl](TestEX5/Project3/src/main/java/Monopoly/Implementations/PieceImpl.java)
+- [PlayerImpl](TestEX5/Project3/src/main/java/Monopoly/Implementations/PlayerImpl.java)
 
 See tests:
-- [BankImplTest]()
-- [BoardImplTest]()
-- [DieImplTest]()
-- [LocationImplTest]()
-- [PieceImplTest]()
-- [PlayerImplTest]()
+- [BankImplTest](TestEX5/Project3/src/test/java/Monopoly/Implementations/BankImplTest.java)
+- [BoardImplTest](TestEX5/Project3/src/test/java/Monopoly/Implementations/BoardImplTest.java)
+- [DieImplTest](TestEX5/Project3/src/test/java/Monopoly/Implementations/DieImplTest.java)
+- [LocationImplTest](TestEX5/Project3/src/test/java/Monopoly/Implementations/LocationImplTest.java)
+- [PieceImplTest](TestEX5/Project3/src/test/java/Monopoly/Implementations/PieceImplTest.java)
+- [PlayerImplTest](TestEX5/Project3/src/test/java/Monopoly/Implementations/PlayerImplTest.java)
 
 I must admit, that there were alot of cases where i thought it was definitly not neccesary to do testing. eg. the Piece, basicly just holds a information about on what location it is on. I would argue this doesn't need testing.
 ```java
@@ -378,4 +380,4 @@ I believe it is alot more important to test. For one, it is likely to influence 
 
 This project also realy hammered home my understanding on the differences between black-box and white-box testing. As can be argued white box testing can also be called clearbox testing. That blackbox testing is testing only input and outputs, eg. with blindfolds and seing what happens. Where as white box testing is testing things in the clear, eg. Controll flow as in testing what behaviors is going on inside the SUT and such.
 
-All code and tests can be found in the [Project 3 module]()
+All code and tests can be found in the [Project 3 module](Project3/src/)
