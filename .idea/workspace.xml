@@ -647,7 +647,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="2576" />
@@ -865,7 +865,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in Project1">
+  <component name="RunManager" selected="JUnit.All in Project1 (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -882,6 +882,23 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="All in Project1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="All in Project1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project1" />
@@ -928,24 +945,6 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="All in Project3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Project3" />
-      <extension name="coverage" runner="jacoco" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
@@ -1132,19 +1131,19 @@
       <item itemvalue="Maven.BuildJokes" />
       <item itemvalue="Maven.Test" />
       <item itemvalue="Maven.Recommended Build" />
-      <item itemvalue="JUnit.All in Project3" />
       <item itemvalue="JUnit.All in Project3 (1)" />
       <item itemvalue="Application.GameHandlerImpl" />
       <item itemvalue="JUnit.All in Project3 (2)" />
       <item itemvalue="JUnit.All in Project1" />
+      <item itemvalue="JUnit.All in Project1 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in Project1 (1)" />
         <item itemvalue="JUnit.All in Project1" />
         <item itemvalue="Application.GameHandlerImpl" />
         <item itemvalue="JUnit.All in Project3 (2)" />
         <item itemvalue="JUnit.All in Project3 (1)" />
-        <item itemvalue="JUnit.All in Project3" />
       </list>
     </recent_temporary>
   </component>
