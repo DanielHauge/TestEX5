@@ -84,7 +84,7 @@ To figure out which test actully fails, and which passes. The purpose of testing
 
 In addition i added hamcrest to the project. Making the tests declaritive instead of imperative. That way it is easier to read and understand what the test does and tests for.
 
-All code and tests can be found in the [Project 2 module](#Project1)
+All code and tests can be found in the [Project 2 module](Project1)
 
 --------------------------------------------------------
 
